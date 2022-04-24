@@ -48,7 +48,7 @@ export default function Portfolio() {
         ))}
       </ul>
       {selected === "Web" ? (
-        <a href="henryfoodapp.vercel.app" className="link">
+        <a href="https://henryfoodapp.vercel.app" className="link">
           Click para ver la pagina!
         </a>
       ) : (
